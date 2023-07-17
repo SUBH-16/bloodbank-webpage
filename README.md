@@ -1,1 +1,5 @@
-# bloodbank-webpage
+# bloodbank-webpage![ss 1](https://github.com/SUBH-16/bloodbank-webpage/assets/111072593/1613ca40-dc95-410d-892a-8d969c75e38d)
+![ss 2](https://github.com/SUBH-16/bloodbank-webpage/assets/111072593/9f230a64-6b15-4006-852f-07ad39189d21)
+![ss 3](https://github.com/SUBH-16/bloodbank-webpage/assets/111072593/feb7a830-fe72-4cd3-956e-0360f16d1be7)
+![ss 4](https://github.com/SUBH-16/bloodbank-webpage/assets/111072593/b2607975-7de0-49a3-a4a4-267d29df731d)
+![ss 5](https://github.com/SUBH-16/bloodbank-webpage/assets/111072593/116325ea-c2a8-4c51-ac62-aef69fc0d756)
